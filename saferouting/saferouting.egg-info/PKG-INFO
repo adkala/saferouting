@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: saferouting
+Version: 0.1
+Summary: Routing with point avoidance.
+Home-page: https://github.com/adkala/saferouting
+Author: Addison Kalanther
+Author-email: addikala@berkeley.edu

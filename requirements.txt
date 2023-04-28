@@ -1,0 +1,6 @@
+osmnx==1.3.0
+xmltodict==0.13.0
+haversine==2.8.0
+django==4.2
+django-tastypie==0.14.5
+./saferouting
