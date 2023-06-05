@@ -20,10 +20,10 @@ class Routes(Map):
         bounds: tuple[tuple[float, float], tuple[float, float]] = None,
         level_handler: Callable[
             [
-                list[float, float],
-                tuple[float, float],
-                tuple[float, float],
-                tuple[float, float],
+                list[int],
+                int,
+                int,
+                int,
                 Graph,
             ],
             list[float, float],
